@@ -1,4 +1,4 @@
-# Projet_IRL
+# Projet_IRL : Optimisation d’un système multi-énergies dans un bâtiment
 
 ## Contexte
 
