@@ -4,7 +4,7 @@
 
 De nos jours, l’humanité fait face à diverses problématiques environnementales et sociétales.
 Hausse de l’intensité et durée des températures, migration impromptue de certaines espèces
-animales, élévations du niveau des mers [11] , flambé des prix des énergies fossiles [10] .
+animales, élévations du niveau des mers [11] et la flambé des prix des énergies fossiles [10] .
 
 
 Pour répondre aux enjeux environnementaux et de sécurité énergétique, un plan de transition
